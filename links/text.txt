@@ -1,0 +1,62 @@
+<li class="price-list__item">
+                    <div class="price-block">
+                        <img src="img/price-photo-2.png" alt="price-photo">
+                        <h3>Analysis of international markets</h3>
+                    </div>
+                    <div class="price-block">
+                        <h4>What is included in the report?</h4>
+                        <ol>
+                            <li>Analysis of local markets</li>
+                            <li>Business plan </li>
+                            <li>Pitch presentation</li>
+                            <li>Calculation of unit economics</li>
+                            <li>Проведение каст дева </li>
+                        </ol>
+                    </div>
+                    <div class="price-block">
+                        <p>Readiness</p>
+                        <span>7 work days</span>
+                    </div>
+                    <div class="price-block">
+                        <p>Language</p>
+                        <span>rus./eng</span>
+                    </div>
+                    <div class="price-block">
+                        <p>Cost</p>
+                        <span>$1 000</span>
+                    </div>
+                    <button>Оставить заявку</button>
+                </li>
+
+                
+                <li class="price-list__item">
+                    <div class="price-block">
+                        <img src="img/price-photo-1.png" alt="price-photo">
+                        <h3>Analysis of international markets</h3>
+                    </div>
+                    <div class="price-block">
+                        <h4>What is included in the report?</h4>
+                        <ol>
+                            <li>Online access to courses</li>
+                            <li>Documents for business</li>
+                            <li>Pitch presentation</li>
+                            <li>Demo day </li>
+                            <li>Follow-up on the results </li>
+                        </ol>
+                    </div>
+                    <div class="price-block">
+                        <p>Readiness</p>
+                        <span>7 work days</span>
+                    </div>
+                    <div class="price-block">
+                        <p>Language</p>
+                        <span>rus./eng</span>
+                    </div>
+                    <div class="price-block">
+                        <p>Cost</p>
+                        <span>$1 000</span>
+                    </div>
+                    <button>Оставить заявку</button>
+                </li>
+
+
